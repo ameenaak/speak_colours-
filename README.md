@@ -143,12 +143,3 @@ Reference how to work with the Web Speech API - [MDN Web Docs Web Speech API](ht
 
 ----
 
-### Revision History 
-
-Description of revisions - __Completed: 05/31/2018__
-
-  - [x] Dev - file and directory structure updated - 05/30/2018
-  - [x] Dev - starting code - 04/06/2018
-  - [x] Dev - styling update - 05/30/2018
-  - [x] Dev - completed code - 05/30/2018
-  - [x] Dev - readme update - 06/01/2018
