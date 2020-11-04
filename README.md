@@ -15,7 +15,7 @@ This app uses the Web Speech API to build a voice powered note app to do 3 thing
 ![Voice Note App](assets/img/vna-1.gif)
 <br>
 
-__Project Status - Completed: 05/31/2018__
+__Project Status - Completed: 04/11/2020__
 
 [Demo - Click Here](https://www.dkmitt.com/mycoding/voice-note-app/index.html) - __Best Used with Chrome__
 
@@ -84,16 +84,6 @@ Description of website technologies used to develop this app.
 <br>
 
 ----
-
-### Listen To Notes
-1. Click on the "Listen to Note" link next to the date of the note that you want to listen to.
-<br>
-
-----
-
-### Delete Voice Notes
-1. Click on the "Delete" link next to the date of the note that you want to delete.
-<br>
 
 ----
 
