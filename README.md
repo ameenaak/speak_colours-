@@ -1,4 +1,4 @@
-## Voice Note App
+basic idea is
 ### Converting from Speech to Text with JavaScript
 
 The purpose of this app is to experiment with the Web Speech API which enables you to incorporate voice data into web apps. The Web Speech API has two parts: SpeechSynthesis (Text-to-Speech), and SpeechRecognition (Asynchronous Speech Recognition.)
@@ -12,12 +12,11 @@ This app uses the Web Speech API to build a voice powered note app to do 3 thing
 
 
 
-![Voice Note App](assets/img/vna-1.gif)
-<br>
+
 
 __Project Status - Completed: 04/11/2020__
 
-[Demo - Click Here](https://www.dkmitt.com/mycoding/voice-note-app/index.html) - __Best Used with Chrome__
+[Demo - Click Here]speech-to-text-js/index.html - __Best Used with Chrome__
 
 __Note:__ On Chrome, using Speech Recognition on a web page involves a server-based recognition engine. Your audio is sent to a web service for recognition processing, so it won't work offline.
 <br>
@@ -132,6 +131,7 @@ Most APIs that require user permission don't work on non-secure hosts. Make sure
 ```
 
 ----
+if you tell a colour name then background will be changed to that colour.
 
 
 ### Resources
