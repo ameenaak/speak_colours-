@@ -87,7 +87,7 @@ Description of website technologies used to develop this app.
 ----
 
 
-[Demo - Click Here](https://www.dkmitt.com/mycoding/voice-note-app/index.html) - __Best Used with Chrome__
+
 
 __Note:__ On Chrome, using Speech Recognition on a web page involves a server-based recognition engine. Your audio is sent to a web service for recognition processing, so it won't work offline.
 <br>
